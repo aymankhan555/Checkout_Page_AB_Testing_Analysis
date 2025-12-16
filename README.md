@@ -10,6 +10,12 @@ The goal is to determine whether the new checkout page improves conversion rates
 - Two variants:
   - Control: Original checkout page
   - Treatment: New checkout page
+ 
+## Tools & Libraries
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- SciPy, Statsmodels
 
 ## Key Metrics
 - Conversion Rate
@@ -42,12 +48,6 @@ The p-value is greater than 0.05, indicating that the difference in conversion r
 - The redesigned checkout page did **not** outperform the existing page.
 - The observed difference in conversions is likely due to random variation.
 - Recommendation: Do not roll out the new checkout page without further design improvements or additional testing.
-
-## Tools & Libraries
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- SciPy, Statsmodels
 
 ## Outcome
 This project demonstrates practical experience with:
